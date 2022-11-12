@@ -32,6 +32,7 @@ A gauge chart displays the weekly washing frequency's value, and display the val
 ### Deliverable 4 - Customize the dashboard
 The dashboard has been customized with following:
   - Add an image to the jumbotron by adding the code below into the <head></head> section
+  - 
   ![image](https://user-images.githubusercontent.com/110554264/201453563-81b1c9ec-6b66-4b02-84c4-acbbb65bbd76.png)
 
   - Add background color to the webpage by adding "bg-success" to the largest DIV of the body section
